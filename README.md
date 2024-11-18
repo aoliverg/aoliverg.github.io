@@ -1,3 +1,3 @@
 # Dr. Antoni Oliver
 
-[Abbreviated CV](https://github.com/mtuoc/mtuoc.github.io)
+[Abbreviated CV](https://github.com/aoliverg/aoliverg.github.io/blob/main/autoCV.pdf)
